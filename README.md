@@ -1,4 +1,33 @@
-# Getting Started with Create React App
+# Aplicación de React, que consume dato de una Rest-Api.
+<img alt="Logo" align="right" src="https://create-react-app.dev/img/logo.svg" width="20%" />
+
+![SharedScreenshot](https://user-images.githubusercontent.com/54221775/119238138-faabfe00-bafd-11eb-9c75-94787c297a77.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
